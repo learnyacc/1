@@ -38,7 +38,7 @@ disqusShortname = ""
   weight = 1
   
   [[menu.main]]
-  name = "Блог"
+  name = "О нас"
   URL = "blog"
   weight = 2
   
@@ -59,7 +59,7 @@ disqusShortname = ""
   weight = 1
   
   [[menu.footer]]
-  name = "Блог"
+  name = "О нас"
   URL = "blog"
   weight = 2
   
@@ -69,7 +69,7 @@ disqusShortname = ""
   weight = 3
   
   [[menu.footer]]
-  name = "Конфиденциальность"
+  name = "Условия использования"
   URL = "terms-conditions"
   weight = 4
   
