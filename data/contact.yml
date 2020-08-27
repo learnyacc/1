@@ -3,7 +3,7 @@ contact:
   enable : true
   # office
   office:
-    title : "Консультации"
+    title : "YES"
     content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna"
     # other information comes from "config.toml"
 
