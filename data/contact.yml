@@ -3,13 +3,13 @@ contact:
   enable : true
   # office
   office:
-    title : "Консультация"
-    content : "Мы заинтересованны в наших клиентах."
+    title : "А поговорить?"
+    content : "Для консультации свяжитесь убдобным способом. Мы online везде"
     # other information comes from "config.toml"
 
   # opennig hour
   opennigHour:
-    title : "Часы приёма заказов"
+    title : "Наши будни"
     dayTimeList:
       - dayTime : "Понедельник: 9:00 – 19:00"
       - dayTime : "Вторник: 9:00 – 19:00"

@@ -7,4 +7,4 @@ description : "this is a meta description"
 
 ### Frequently Asked Questions
 
-Below FAQ are some common concerns of our clients before purchasing the <br> theme, if you have other questions, please just send it to demo@email.com
+Ниже основные вопросы наших клиентов перед покупкой <br> если у вас остальсь вопросы пожалуйста напишите issue.cosmetic@gmail.com
