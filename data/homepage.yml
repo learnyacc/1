@@ -1,9 +1,9 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Best Beauty Cream For Your Skin"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed dia"
+  title : "Восстанавливающая сыворотка для лица"
+  content : "Натуральное средство для востановления смягчения и успокоения всех типов кожи.
+  Dr. Jart+ Cicapair Serum - сделано в Южной Кореи."
   image : "images/banner.png"
   # button
   button:
@@ -18,18 +18,16 @@ banner:
 ########################## About ##############################
 about:
   enable : true
-  title : "About Our Product"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-          clita kasd gubergren,"
+  title : "Наши товары"
+  content : "Сыворотка разработана специалистами известного корейского бренда Dr. Jart+ для ухода за кожей лица. Создана на основе экстракта центеллы азиатской и ниацинамида."
   image : "images/about.png"
 
 
 ###################### Call to action ########################
 cta:
   enable : true
-  title : "Buy one Get One Free Taba Cream"
-  content : "Available for limited time only. Grab one while you still can!"
+  title : "Способ применения сыворотки для лица"
+  content : "Нанесите небольшое количество средства на кожу лица и похлопывания подушечками пальцев впитать в кожу лица, затем нанести питательный крем для лица. Использовать два раза в день утром и вечером во время процедур по уходу за кожей лица."
   image : "images/cta.png"
   overlayImage : "images/cta-overlay.png"
   button:
