@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://infallible-elion-e31fe6.netlify.app/"
+baseURL = "https://cosmetic.netlify.app/"
 languageCode = "ru-ru"
 title = "Уход за собой"
 theme = "hargo"
@@ -33,17 +33,17 @@ disqusShortname = ""
 [menu]
     
   [[menu.main]]
-  name = "Products"
+  name = "Товары"
   URL = "products"
   weight = 1
   
   [[menu.main]]
-  name = "Blog"
+  name = "Блог"
   URL = "blog"
   weight = 2
   
   [[menu.main]]
-  name = "FAQ"
+  name = "Вопросы"
   URL = "faq"
   weight = 3
   
@@ -54,17 +54,17 @@ disqusShortname = ""
 
   ############# footer menu #############
   [[menu.footer]]
-  name = "Products"
+  name = "Товары"
   URL = "products"
   weight = 1
   
   [[menu.footer]]
-  name = "Blog"
+  name = "Блог"
   URL = "blog"
   weight = 2
   
   [[menu.footer]]
-  name = "FAQ"
+  name = "Вопросы"
   URL = "faq"
   weight = 3
   
@@ -87,16 +87,16 @@ home = "Home"
 description = "Бережное внимание"
 author = "Themefisher"
 # google map
-gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-mapLatitude = "51.5223477"
-mapLongitude = "-0.1622023"
-mapMarker = "images/marker.png"
+#gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+#mapLatitude = "46.4854326"
+#mapLongitude = "30.7469761"
+#mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # Contact Information
 mobile = "095 905 07 27"
 email = "issue.cosmetic@gmail.com"
-location = "Одесса, интернет магазин недалеко от порта"
+location = "Одесса, интернет магазин"
 # copyright
 copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
 
@@ -117,21 +117,21 @@ copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) 
   icon = "ti-facebook"
   link = "#"
   
-  [[params.social]]
-  icon = "ti-twitter-alt"
-  link = "#"
+ # [[params.social]]
+ # icon = "ti-twitter-alt"
+ # link = "#"
   
-  [[params.social]]
-  icon = "ti-youtube"
-  link = "#"
+ # [[params.social]]
+ # icon = "ti-youtube"
+ # link = "#"
   
   [[params.social]]
   icon = "ti-instagram"
   link = "#"
   
-  [[params.social]]
-  icon = "ti-pinterest"
-  link = "#"
+ # [[params.social]]
+ # icon = "ti-pinterest"
+ # link = "#"
 
   # Contact Form
   [params.contact]
