@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://infallible-elion-e31fe6.netlify.app/"
 languageCode = "ru-ru"
 title = "Уход за собой"
 theme = "hargo"
