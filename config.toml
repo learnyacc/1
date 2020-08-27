@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://examplesite.com"
-languageCode = "en-us"
-title = "Hargo | Hugo Ecommerce Site"
+languageCode = "ru-ru"
+title = "Уход за собой"
 theme = "hargo"
 summaryLength = "20"
 paginate = 10
